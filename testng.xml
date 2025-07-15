@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Full Automation Suite" parallel="classes" thread-count="3">
+    <listeners>
+        <listener class-name="listener.Listener"/>
+        <listener class-name="listener.RetryListener"/>
+    </listeners>
+
+    <test name="All Tests">
+        <classes>
+            <class name="tests.ProductSearchTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+15:28:36.293 [TestNG-PoolService-1] INFO  - ==== Starting Test: buyIphone16Test ====
+15:29:49.177 [TestNG-PoolService-1] INFO  - Test started: Searching iPhone 16 for 'iphone 16', clicking video index 1
+15:29:49.298 [TestNG-PoolService-1] INFO  - Cleared the content of the element: [[ChromeDriver: chrome on mac (f09fab7f97a69caee35d2810134cb0f9)] -> id: search]
+15:29:49.540 [TestNG-PoolService-1] INFO  - Sent keys 'iphone 16' to element: [[ChromeDriver: chrome on mac (f09fab7f97a69caee35d2810134cb0f9)] -> id: search]
+15:29:53.179 [TestNG-PoolService-1] INFO  - Clicked on element: [[ChromeDriver: chrome on mac (f09fab7f97a69caee35d2810134cb0f9)] -> xpath: //button[@class='action search']]
+15:29:53.227 [TestNG-PoolService-1] INFO  - Element is displayed
+15:30:06.567 [TestNG-PoolService-1] INFO  - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: product_view_0'
+15:30:06.787 [TestNG-PoolService-1] INFO  - Clicked on element: [[ChromeDriver: chrome on mac (f09fab7f97a69caee35d2810134cb0f9)] -> id: product-addtocart-button]
+15:30:21.732 [TestNG-PoolService-1] INFO  - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //button//span[text()='Go to cart']'
+15:30:21.800 [TestNG-PoolService-1] INFO  - ==== Finished Test: buyIphone16Test ====
