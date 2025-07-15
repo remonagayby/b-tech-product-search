@@ -21,4 +21,4 @@ A test automation framework for Searching Products on B.Tech with parallel execu
 
 #### Run All Tests
 ```bash
-mvn clean test -DsuiteXmlFile=testng.xml# b-tech-product-search
+mvn clean test -DsuiteXmlFile=testng.xml
